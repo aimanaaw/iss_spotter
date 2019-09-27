@@ -85,7 +85,7 @@ const nextISSTimesForMyLocation = (someCallBack) => {
     });
 
   });
-}
+};
 
 
 
